@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TweetSocial</string>
+    <string name="hint_search">Search tweets</string>
+
+    <string name="button_reply">Reply</string>
+
+    <string name="twitter_consumer_key">fx95oKhMHYgytSBmiAqQ</string>
+    <string name="twitter_consumer_sec">0zfaijLMWMYTwVosdqFTL3k58JhRjZNxd2q0i9cltls</string>
+    <string name="oauth_token">2305278770-GGw8dQQg3o5Vqfx9xHpUgJ0CDUe3BoNmUNeWZBg</string>
+    <string name="oauth_secret">iEzxeJjEPnyODVcoDYt5MVvrg90Jx2TOetGdNeol6PeYp</string>
+
+    <string name="error_base">An error occurred.</string>
+    <string name="error_no_tweets">No tweets found</string>
+</resources>
